@@ -3,6 +3,7 @@
 
 Terraform Modules better to keep in GitHub or BitBucket, otherwise in separate folder.
 
+```text
 .
 ├── modules
 │   ├── aws_network
@@ -45,3 +46,4 @@ Terraform Modules better to keep in GitHub or BitBucket, otherwise in separate f
             ├── databases
             ├── ecs_cluster
             └── vpn
+```
