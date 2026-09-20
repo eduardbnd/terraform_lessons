@@ -72,3 +72,4 @@ output "prod_vpc_id" {
 output "prod_vpc_cidr" {
   value = data.aws_vpc.prod_vpc.cidr_block
 }
+
