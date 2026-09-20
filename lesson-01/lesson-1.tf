@@ -31,3 +31,4 @@ resource "aws_instance" "my_amazon_linux" {
     Project = "terraform lessons"
   }
 }
+
