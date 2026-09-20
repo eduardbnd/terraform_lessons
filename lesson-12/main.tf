@@ -64,3 +64,4 @@ resource "aws_security_group" "my_server" {
   }
   tags = var.common_tags
 }
+
