@@ -70,3 +70,4 @@ output "latest_windows_ami_id" {
 output "latest_windows_ami_name" {
   value = data.aws_ami.latest_windows.name
 }
+
