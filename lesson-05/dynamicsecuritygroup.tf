@@ -45,3 +45,4 @@ resource "aws_security_group" "my_webserver" {
     Owner = "Eduard Bondarenko"
   }
 }
+
